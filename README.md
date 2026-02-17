@@ -11,5 +11,5 @@ Repository dedicated to practical projects developed using the **Lua programming
   
   
 <p align="center">
-  <img src="assets/novo.gif" width="400"/>
+  <img src="assets/novo.gif" width="200"/>
 </p>
