@@ -11,7 +11,5 @@ The goal is to strengthen programming logic, explore different paradigms within 
 ## Technologies
 
 - Lua
-- LÖVE (Love2D) – when applicable
-- Git & GitHub
-
+- LÖVE (Love2D) 
 
