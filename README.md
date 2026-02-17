@@ -13,6 +13,7 @@ The goal is to strengthen programming logic, explore different paradigms within 
 - Lua
 - LÖVE (Love2D)
   
+  
 <p align="center">
   <img src="assets/thinking.gif" width="500"/>
 </p>
