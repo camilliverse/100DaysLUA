@@ -4,9 +4,6 @@
 </h1>
 
 Repository dedicated to practical projects developed using the **Lua programming language**.
-
-## About
-This repository contains my Lua projects, created as part of my learning journey and daily practice.
 ## Technologies
 
 - Lua
@@ -14,5 +11,5 @@ This repository contains my Lua projects, created as part of my learning journey
   
   
 <p align="center">
-  <img src="assets/thinking.gif" width="500"/>
+  <img src="assets/novo.gif" width="400"/>
 </p>
