@@ -1,13 +1,12 @@
-# Projects in Lua
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/>
+  Projects in Lua
+</h1>
 
 Repository dedicated to practical projects developed using the **Lua programming language**.
 
 ## About
-
-This repository contains independent projects, experiments, and structured applications built with Lua.  
-
-The goal is to strengthen programming logic, explore different paradigms within Lua, and apply the language in practical scenarios such as system simulations, game mechanics, and interactive applications.
-
+This repository contains my Lua projects, created as part of my learning journey and daily practice.
 ## Technologies
 
 - Lua
